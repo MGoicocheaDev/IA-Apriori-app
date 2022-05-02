@@ -51,7 +51,10 @@
     <Compile Include="Data\loadData.cs" />
     <Compile Include="Models\DataExcel.cs" />
     <Compile Include="Models\Muestra.cs" />
+    <Compile Include="Models\ResultProcess.cs" />
     <Compile Include="Models\Ubigeo.cs" />
+    <Compile Include="Pattern\SingletonBase.cs" />
+    <Compile Include="Pattern\SingletonPattern.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

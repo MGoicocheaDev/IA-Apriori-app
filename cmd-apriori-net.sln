@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cmd-apriori-net", "cmd-apri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib-apriori-net", "lib-apriori-net\lib-apriori-net.csproj", "{2511732A-1FB9-4400-9FD2-98E1F4F53661}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web-mvc-apriori-net", "web-mvc-apriori-net\web-mvc-apriori-net.csproj", "{AB613F5B-07FB-40F0-890D-0FC80366FF2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2511732A-1FB9-4400-9FD2-98E1F4F53661}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2511732A-1FB9-4400-9FD2-98E1F4F53661}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2511732A-1FB9-4400-9FD2-98E1F4F53661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB613F5B-07FB-40F0-890D-0FC80366FF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB613F5B-07FB-40F0-890D-0FC80366FF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB613F5B-07FB-40F0-890D-0FC80366FF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB613F5B-07FB-40F0-890D-0FC80366FF2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
